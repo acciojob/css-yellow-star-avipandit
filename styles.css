@@ -1,4 +1,4 @@
-.five-point-star {
+.star {
   position: relative;
   display: block;
   margin: 72px 0;
@@ -14,7 +14,7 @@
   transform: rotate(37deg);
 }
 
-.five-point-star:before {
+.star:before {
   position: absolute;
   display: block;
   width: 0;
@@ -32,7 +32,7 @@
   transform: rotate(323deg);
 }
 
-.five-point-star:after {
+.star:after {
   position: absolute;
   display: block;
   width: 0px;
