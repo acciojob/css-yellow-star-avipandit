@@ -5,7 +5,7 @@
   width: 0px;
   height: 0px;
   border-right: 120px solid transparent;
-  border-bottom: 90px solid yellow;
+  border-bottom: 100px solid rgb(255, 255, 0);
   border-left: 120px solid transparent;
   -webkit-transform: rotate(37deg);
   -moz-transform: rotate(37deg);
@@ -22,7 +22,7 @@
   top: -56px;
   left: -72px;
   content: "";
-  border-bottom: 84px solid yellow;
+  border-bottom: 100px solid rgb(255, 255, 0);
   border-left: 28px solid transparent;
   border-right: 28px solid transparent;
   -webkit-transform: rotate(323deg);
@@ -41,7 +41,7 @@
   left: -120px;
   content: "";
   border-right: 120px solid transparent;
-  border-bottom: 90px solid yellow;
+  border-bottom: 100px solid rgb(255, 255, 0);
   border-left: 120px solid transparent;
   -webkit-transform: rotate(286deg);
   -moz-transform: rotate(286deg);
