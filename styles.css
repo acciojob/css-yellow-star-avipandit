@@ -4,9 +4,9 @@
   margin: 72px 0;
   width: 0px;
   height: 0px;
-  border-right: 120px solid transparent;
+  border-right: 50px solid rgba(0, 0, 0, 0);
   border-bottom: 100px solid rgb(255, 255, 0);
-  border-left: 120px solid transparent;
+  border-left: 50px solid rgba(0, 0, 0, 0);
   -webkit-transform: rotate(37deg);
   -moz-transform: rotate(37deg);
   -ms-transform: rotate(37deg);
@@ -40,9 +40,9 @@
   top: 0;
   left: -120px;
   content: "";
-  border-right: 120px solid transparent;
+  border-right: 50px solid rgba(0, 0, 0, 0);
   border-bottom: 100px solid rgb(255, 255, 0);
-  border-left: 120px solid transparent;
+  border-left: 50px solid rgba(0, 0, 0, 0);
   -webkit-transform: rotate(286deg);
   -moz-transform: rotate(286deg);
   -ms-transform: rotate(286deg);
